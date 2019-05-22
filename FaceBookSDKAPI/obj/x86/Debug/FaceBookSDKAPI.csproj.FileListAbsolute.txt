@@ -1,0 +1,20 @@
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\FaceBookSDKAPI.exe
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\FaceBookSDKAPI.pdb
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.Form1.resources
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.Properties.Resources.resources
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.csproj.GenerateResource.Cache
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.exe
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.pdb
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.csprojResolveAssemblyReference.cache
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\Facebook.dll
+E:\CurrentProjects\VS\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\Facebook.xml
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.exe
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.pdb
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\FaceBookSDKAPI.exe
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\FaceBookSDKAPI.pdb
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\Facebook.dll
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\bin\Debug\Facebook.xml
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.csprojResolveAssemblyReference.cache
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.Form1.resources
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.Properties.Resources.resources
+F:\My Developed Codes\Other Projects\FaceBookSDKAPI\FaceBookSDKAPI\obj\x86\Debug\FaceBookSDKAPI.csproj.GenerateResource.Cache
